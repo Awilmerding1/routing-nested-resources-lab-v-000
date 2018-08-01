@@ -2067,3 +2067,4 @@ Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
 Processing by SongsController#index as HTML
 Redirected to http://test.host/artists
 Completed 302 Found in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
