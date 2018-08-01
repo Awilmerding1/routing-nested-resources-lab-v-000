@@ -11,7 +11,7 @@ class SongsController < ApplicationController
 
   def show
     if params[]
-    @song = Song.find(params[:id])
+      @song = Song.find(params[:id])
   end
 
   def new
