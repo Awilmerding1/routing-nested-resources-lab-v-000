@@ -2044,3 +2044,4 @@ Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.1ms)
 Processing by SongsController#index as HTML
 Redirected to http://test.host/artists
 Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
